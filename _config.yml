@@ -1,7 +1,7 @@
 name: stuwhisson
 favicon: null
-layout_spectrum: 0.5717869068030268
-typography_spectrum: 0.3351366640999913
+layout_spectrum: 0.75
+typography_spectrum: 0.18463
 title: 'Stu Whisson Songwriter & Stuff'
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#f5f5f5'
+    - '#a5a5a5'
+    - '#464646'
+    - '#656565'
+    - '#020202'
   brandStrength: 0.5292942423839122
   lightness: 0.039748962968587875
   saturation: 0.5475953775458038
-  rhythmicContrast: 0.09763415460474789
+  rhythmicContrast: 0
 purpose: []
