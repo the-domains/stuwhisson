@@ -4,7 +4,7 @@
         <description><![CDATA[Stu Whisson Songwriter & Stuff]]></description>
         <link>https://thegrid.ai/stuwhisson/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Apr 2016 19:41:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2016 22:30:43 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/stuwhisson/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/stuwhisson/as-some-of-you-know-ive-got-a-website-for-my-music-at-www/index.html</link>
             <guid isPermaLink="false">258eb8e7-2b00-49bd-9a5e-6228b67edf05</guid>
             <pubDate>Tue, 19 Apr 2016 01:51:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Remembering Prince, an unparalleled musical genius]]></title>
+            <description><![CDATA[<article><h1>Remembering Prince, an unparalleled musical genius</h1><p>He passed away today at the age of 57 (Frank Micelotta/Getty Images) Something feels fundamentally wrong about imagining music without Prince: it's like a chill on the back of your neck, a taste in your mouth your body immediately begins to reject. If contemporary pop music is a tree, Prince's work is a huge chunk of its roots.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e51fdad4f4c7d10c8a31f925ca0b9486a4882fcf.jpg"></article>]]></description>
+            <link>http://www.theverge.com/2016/4/21/11480830/prince-obituary-life-work-musical-genius</link>
+            <guid isPermaLink="false">cfd16f43-6b1f-49de-b432-5e1bebffaa30</guid>
+            <pubDate>Thu, 21 Apr 2016 22:29:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[My Right Eye - Today]]></title>
@@ -68,13 +75,6 @@
             <link>http://dime-online.org/</link>
             <guid isPermaLink="false">0251786e-3084-4385-9427-2c1be84706b6</guid>
             <pubDate>Wed, 20 Apr 2016 19:01:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>As some of you may now, I'm very much a geek! Every geek for a very long time has dreamed of a day when they can walk in to the game, not just play it passively on a screen. Well that day has come, with the HTC Vive.... forget the Oculus Rift... The Vive is where it's at!</p>]]></description>
-            <link>https://thegrid.ai/stuwhisson/as-some-of-you-may-now-im-very-much-a-geek-every-geek-for/index.html</link>
-            <guid isPermaLink="false">7c61ab24-7d13-471d-bb33-68a461316abf</guid>
-            <pubDate>Wed, 20 Apr 2016 15:15:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
