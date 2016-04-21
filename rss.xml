@@ -4,7 +4,7 @@
         <description><![CDATA[Stu Whisson Songwriter & Stuff]]></description>
         <link>https://thegrid.ai/stuwhisson/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Apr 2016 01:10:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2016 19:41:42 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/stuwhisson/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/stuwhisson/as-some-of-you-know-ive-got-a-website-for-my-music-at-www/index.html</link>
             <guid isPermaLink="false">258eb8e7-2b00-49bd-9a5e-6228b67edf05</guid>
             <pubDate>Tue, 19 Apr 2016 01:51:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[My Right Eye - Today]]></title>
+            <description><![CDATA[<article><h1>My Right Eye - Today</h1><p>MyRightEye.Today is a personal journal about my experiences with living with Amblyopia and Strabismus in my right eye.</p></article>]]></description>
+            <link>http://myrighteye.today/</link>
+            <guid isPermaLink="false">4204e181-6d49-4740-888d-33ed96674d56</guid>
+            <pubDate>Thu, 21 Apr 2016 19:41:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Using VR to Treat Lazy Eye with 'Vivid Vision' - Road to VR]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/stuwhisson/as-some-of-you-may-now-im-very-much-a-geek-every-geek-for/index.html</link>
             <guid isPermaLink="false">7c61ab24-7d13-471d-bb33-68a461316abf</guid>
             <pubDate>Wed, 20 Apr 2016 15:15:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c95e5f25-fffc-423f-8c8c-8d3293f851bc.jpg">]]></description>
-            <link>https://thegrid.ai/stuwhisson/my-girlfriend-can-shop-for-hours-for-shoes-this-is-my-ma/index.html</link>
-            <guid isPermaLink="false">e9b4b309-4d93-4d2d-826a-2162e0f54b38</guid>
-            <pubDate>Tue, 19 Apr 2016 13:25:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
